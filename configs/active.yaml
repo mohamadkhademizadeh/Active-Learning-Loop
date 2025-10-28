@@ -1,0 +1,6 @@
+selection:
+  k: 20
+  diversity_weight: 0.3
+  min_confidence: 0.25
+  nms_iou: 0.5
+  hist_bins: 16

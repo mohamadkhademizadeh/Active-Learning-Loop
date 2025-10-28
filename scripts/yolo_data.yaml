@@ -1,0 +1,6 @@
+path: .
+train: data/labeled/images/train
+val: data/labeled/images/val
+names:
+  0: part
+  1: defect
